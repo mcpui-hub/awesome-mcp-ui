@@ -1,6 +1,10 @@
 # Awesome MCP UI
 
-A curated list of awesome resources, libraries, tools, tutorials, and community links for **MCP UI** – the UI SDK for the Model Context Protocol (MCP) that enables rich interactive interfaces for AI tools.
+**MCP UI** (Model Context Protocol UI) is the leading SDK for building interactive user interfaces that work seamlessly with AI tools. This repository provides the ultimate **awesome MCP UI list** – a comprehensive collection of resources, libraries, tutorials, examples, and community links for **MCP UI**. Whether you search for "mcp ui", "mcp ui list", or "awesome mcp ui", you’ll find the complete, up‑to‑date information you need to get started, explore advanced features, and contribute to the ecosystem.
+
+---
+
+**Keywords:** mcp ui, mcp ui list, awesome mcp ui, model context protocol UI, interactive AI UI, UI SDK
 
 ---
 
