@@ -48,6 +48,7 @@
 | TypeScript / JavaScript | `@mcp-ui/server` | Server‑side helpers to create UI resources (`createUIResource`). |
 | Ruby | `mcp_ui_server` | Ruby wrapper for creating UI resources on the server. |
 | Python | `mcp-ui-server` | Python wrapper for creating UI resources on the server. |
+| Go | [`github.com/techthos/gadget`](https://github.com/Techthos/gadget) | Prebuilt, parameterized HTML widgets (data tables, forms) for MCP Apps, embedded in a single Go binary. |
 
 ---
 
