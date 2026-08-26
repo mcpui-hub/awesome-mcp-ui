@@ -48,6 +48,7 @@
 | TypeScript / JavaScript | `@mcp-ui/server` | Server‑side helpers to create UI resources (`createUIResource`). |
 | Ruby | `mcp_ui_server` | Ruby wrapper for creating UI resources on the server. |
 | Python | `mcp-ui-server` | Python wrapper for creating UI resources on the server. |
+| TypeScript / JavaScript | `@maxhealth.tech/prefab` | Server-side component library for MCP app UIs. 115+ components and auto-renderers for tables, charts and forms, with a zero-dependency browser renderer. Emits its own `$prefab` wire format and A2UI v1.0, and ships `ui://` and `a2ui://` resource helpers. |
 
 ---
 
